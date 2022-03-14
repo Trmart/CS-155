@@ -1,0 +1,22 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ARR                     3042
+//	ASCII                   3040
+//	DDR                     303F
+//	DISPLAY1                3017
+//	DISPLAY2                301E
+//	DISPLAY3                3024
+//	DISPLAY4                302B
+//	DISPLAYSTRMAX           3021
+//	DISPLAYSTRMIN           3014
+//	DSR                     303E
+//	ELSE                    3011
+//	IF                      300B
+//	LOOP                    3005
+//	MAX                     302F
+//	MAXLOOP                 3022
+//	MAXVAL                  3029
+//	MIN                     3036
+//	MINLOOP                 3015
+//	MINVAL                  301C
+//	SIZE                    3041

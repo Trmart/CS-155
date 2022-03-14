@@ -1,0 +1,22 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     302C
+//	DSR                     302B
+//	Input                   300A
+//	KBDR                    3032
+//	KBSR                    3031
+//	LOOP                    3005
+//	MAIN                    3000
+//	NewLine                 3013
+//	Prompt                  3014
+//	ReadChar                302D
+//	RestoreReg              303A
+//	SaveR1                  3041
+//	SaveR2                  3042
+//	SaveR3                  3043
+//	SaveR4                  3044
+//	SaveR5                  3045
+//	SaveR6                  3046
+//	SaveR7                  3012
+//	SaveReg                 3033
+//	WriteChar               3027
